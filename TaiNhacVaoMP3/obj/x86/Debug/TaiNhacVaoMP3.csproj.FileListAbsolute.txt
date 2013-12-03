@@ -5,3 +5,10 @@ D:\TaiNhacVaoMP3\TaiNhacVaoMP3\obj\x86\Debug\TaiNhacVaoMP3.exe
 D:\TaiNhacVaoMP3\TaiNhacVaoMP3\obj\x86\Debug\TaiNhacVaoMP3.pdb
 D:\TaiNhacVaoMP3\TaiNhacVaoMP3\obj\x86\Debug\Interop.WMPLib.dll
 D:\TaiNhacVaoMP3\TaiNhacVaoMP3\obj\x86\Debug\TaiNhacVaoMP3.csproj.ResolveComReference.cache
+C:\Users\Mr.Rome\Desktop\taiMP3_dev\trunk\TaiNhacVaoMP3\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Mr.Rome\Desktop\taiMP3_dev\trunk\TaiNhacVaoMP3\obj\x86\Debug\TaiNhacVaoMP3.csproj.ResolveComReference.cache
+C:\Users\Mr.Rome\Desktop\taiMP3_dev\trunk\TaiNhacVaoMP3\obj\x86\Debug\TaiNhacVaoMP3.exe
+C:\Users\Mr.Rome\Desktop\taiMP3_dev\trunk\TaiNhacVaoMP3\obj\x86\Debug\TaiNhacVaoMP3.pdb
+C:\Users\Mr.Rome\Desktop\taiMP3_dev\trunk\TaiNhacVaoMP3\bin\Debug\TaiNhacVaoMP3.exe
+C:\Users\Mr.Rome\Desktop\taiMP3_dev\trunk\TaiNhacVaoMP3\bin\Debug\TaiNhacVaoMP3.pdb
+C:\Users\Mr.Rome\Desktop\taiMP3_dev\trunk\TaiNhacVaoMP3\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -24,8 +24,8 @@ namespace TaiNhacVaoMP3
             Console.WriteLine("va day hon 2 phut vao may mp3 cua bo gia. \n");
 
             Console.WriteLine("BO GIA CO MUON XOA HET NHAC TRONG TAP TIN 'music' TREN MAY MP3 KHONG?");
-            Console.WriteLine("nhan phim 'Y' de xoa tap tinh 'music' va tai nhac MOI");
-            Console.WriteLine("nhan phim 'N' de tiep tuc tai THEM nhac vao may MP3 \n");
+            Console.WriteLine("NHAN phim 'Y' de xoa tap tinh 'music' va tai nhac MOI");
+            Console.WriteLine("NHAN phim 'N' de tiep tuc tai THEM nhac vao may MP3 \n");
 
             ConsoleKeyInfo cki;
             do
@@ -79,8 +79,10 @@ namespace TaiNhacVaoMP3
                 Directory.CreateDirectory(target);
             }
 
-            Console.WriteLine("\nDang tai nhac vao May MP3, xin vui long doi ...");
-            
+            Console.WriteLine("\nSo bai nhac se tai vao may la: " + orderedList.Count);
+            Console.WriteLine("\nDang tai nhac vao May MP3, xin vui long doi ...\n");
+
+            int counter = 1;
             foreach (FileInfo fi in orderedList)
             {
                 FileInfo targetfi = new FileInfo(target + fi.Name);
@@ -89,7 +91,9 @@ namespace TaiNhacVaoMP3
                 {
                     try
                     {
+                        Console.WriteLine(counter + " - " + fi.Name );
                         fi.CopyTo(targetfi.FullName, false);
+                        counter++;
                     }
                     catch (IOException ex)
                     {
