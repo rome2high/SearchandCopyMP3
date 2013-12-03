@@ -1,0 +1,7 @@
+D:\TaiNhacVaoMP3\TaiNhacVaoMP3\bin\Debug\TaiNhacVaoMP3.exe
+D:\TaiNhacVaoMP3\TaiNhacVaoMP3\bin\Debug\TaiNhacVaoMP3.pdb
+D:\TaiNhacVaoMP3\TaiNhacVaoMP3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TaiNhacVaoMP3\TaiNhacVaoMP3\obj\x86\Debug\TaiNhacVaoMP3.exe
+D:\TaiNhacVaoMP3\TaiNhacVaoMP3\obj\x86\Debug\TaiNhacVaoMP3.pdb
+D:\TaiNhacVaoMP3\TaiNhacVaoMP3\obj\x86\Debug\Interop.WMPLib.dll
+D:\TaiNhacVaoMP3\TaiNhacVaoMP3\obj\x86\Debug\TaiNhacVaoMP3.csproj.ResolveComReference.cache
